@@ -636,11 +636,14 @@
                         <verstretch>0</verstretch>
                        </sizepolicy>
                       </property>
+                      <property name="autoFillBackground">
+                       <bool>true</bool>
+                      </property>
                       <property name="text">
                        <string/>
                       </property>
                       <property name="pixmap">
-                       <pixmap resource="asset.qrc">:/new/prefix1/Downloads/MicrosoftTeams-image.png</pixmap>
+                       <pixmap>:/new/prefix1/Downloads/MicrosoftTeams-image.png</pixmap>
                       </property>
                       <property name="scaledContents">
                        <bool>true</bool>
